@@ -1,0 +1,73 @@
+#body {
+    background-color: aliceblue;
+}
+
+
+
+.outer {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(238, 176, 231);
+
+
+}
+
+/* 
+div {
+    background-color: pink;
+    display: flex;
+
+    /* all items will come inside container 
+} */
+
+
+/* ul {
+    justify-content: space-evenly;
+    background-color: rgb(10, 10, 10);
+    display: flex;
+    margin-top: -7px;
+    padding: 8px;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+
+}
+
+
+li {
+    list-style-type: disc;
+    display: inline;
+
+} */
+
+/* @media (max-width: 300px) {
+    div {
+        background-color: green;
+    }
+}
+
+
+@media (min-width: 320px) and (max-width:400px) {
+    div {
+        background-color: pink;
+    }
+}
+
+@media (min-width: 600px) {
+    div {
+        background-color: blue;
+    }
+} */
